@@ -1,6 +1,6 @@
 # DarkBotX - Tactile and Proprioceptive Shape Modeling for Planning Visionless Grasp with Reinforcement Learning in a Soft Robotic Manipulator
 
-This repository contains the code and resources for **DarkBotX**, an AI-driven, visionless soft robotic manipulator developed for the **MTE 4200 Project and Thesis** at the **Department of Mechatronics Engineering, Rajshahi University of Engineering & Technology (RUET)**. DarkBotX operates in highly occluded environments where traditional optical sensors fail by leveraging haptic data, a custom Radial Boundary Reconstruction (RBR) algorithm, and Deep Reinforcement Learning (RL) to compute and execute stable grasps.
+This repository contains the code and resources for **DarkBotX**, a visionless soft robotic manipulator developed for the **MTE 4200 Project and Thesis** at the **Department of Mechatronics Engineering, Rajshahi University of Engineering & Technology (RUET)**. DarkBotX operates in highly occluded environments where traditional optical sensors fail by leveraging haptic data, a custom Radial Boundary Reconstruction (RBR) algorithm, and Deep Reinforcement Learning (RL) to compute and execute stable grasps.
 
 ## Project Overview
 
