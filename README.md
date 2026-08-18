@@ -28,10 +28,10 @@ Key components and modules include:
 
 ## Repository Structure
 
-- `simulation/` - Contains core simulation environments (`environment.py`) built on Genesis Sim.
-- `hardware/` - URDF description files, mechanical CAD models, and mold STL assets.
-- `rl_training/` - PPO reward configurations, policy networks, and training logs.
-- `edge_control/` - Low-latency Python deployment scripts designed for the Raspberry Pi hardware.
+- `/simulation`: Contains `genesis_env.py` (the core VecEnv wrapper) and configuration files.
+- `/hardware`: URDF physics models and 3D print assets.
+- `/rl_training`: Actor-critic networks and policy configurations.
+- `/edge_control`: Deployment scripts for physical execution.
 
 ## Installation and Setup
 
