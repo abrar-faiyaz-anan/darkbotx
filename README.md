@@ -37,7 +37,7 @@ Key components and modules include:
 
 1. **Clone this repository** to your local machine:
    ```bash
-   git clone [https://github.com/abrar-faiyaz-anan/darkbotx.git](https://github.com/username/darkbotx.git)
+   git clone https://github.com/abrar-faiyaz-anan/darkbotx.git
    cd darkbotx
    pip install -r requirements.txt
    cd simulation
