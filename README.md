@@ -26,3 +26,8 @@ DarkBotX is a visionless robotic manipulator designed to compute and execute sta
    ```bash
    git clone [https://github.com/abrar-faiyaz-anan/darkbotx.git](https://github.com/abrar-faiyaz-anan/darkbotx.git)
    cd darkbotx
+
+   pip install -r requirements.txt
+
+   cd simulation
+python environment.py
